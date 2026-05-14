@@ -1,1 +1,1 @@
-# SI_2026_lab2_225076
+Andrej Gruevski 225076
